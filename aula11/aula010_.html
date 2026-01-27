@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imigração</title>
+</head>
+<body>
+    <h1>Sistema de Identificação</h1>
+    País de Origem <input type="text" name="paises" id="paises">
+    <input type="button" value="Analisar" onclick="verificar()">
+    <div id="res">
+
+    </div>
+
+    <script>
+        function verificar() {
+            var origem = document.querySelector('input#paises').value
+            var res = document.querySelector('div#res')
+            var origeml = origem.toLowerCase()
+
+            res.innerHTML = `<p>Seu país de origem é o ${origem}</p>`
+
+            if (origeml == 'brasil') {
+                res.innerHTML += `<p>Você é Brasileiro</p>`
+            } else {
+                res.innerHTML += `<p>Você é Argentino</p>`
+            }
+        }
+    </script>
+</body>
+</html>
