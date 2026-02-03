@@ -19,11 +19,11 @@ function contar() {
 
         if (i < f) {
             for(let c = i; c <= f; c += p){
-                res.innerHTML += ` ${c} \u{1F449}`
+                res.innerHTML += ` ${c}Bahs \u{1F449}`
             }
         }else {
             for(let c = i; c >= f; c -= p){
-                res.innerHTML += ` ${c} \u{1F449}`
+                res.innerHTML += ` ${c}Bahs \u{1F449}`
             }
         }
         res.innerHTML += `\u{1F3C1}`
