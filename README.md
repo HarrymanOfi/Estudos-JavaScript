@@ -3,9 +3,9 @@
 <div>
     <details>
         <summary>Clique Aqui</summary>
+                    [Abrir projeto aula04](https://harrymanofi.github.io/Estudos-JavaScript/aula04/)
             <ul>
                 <li>
-                    [Abrir projeto aula04](https://harrymanofi.github.io/Estudos-JavaScript/aula04/)
                     <strong>Abrir</strong> <a (https://harrymanofi.github.io/Estudos-JavaScript/aula04/)"> Desafio 1</a>
                 </li>
                 <li>
