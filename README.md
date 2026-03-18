@@ -12,7 +12,7 @@
                     <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula05/"> Desafio 2</a>
                 </li>
                 <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/"> Desafio 3</a>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/ex2"> Desafio 3</a>
                 </li>
                 <li>
                     <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula09/"> Desafio 4</a>
