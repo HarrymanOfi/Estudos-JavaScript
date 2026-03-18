@@ -5,7 +5,7 @@
         <summary>Clique Aqui</summary>
             <ul>
                 <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/blob/main/aula04/ex001.html"> Desafio 1</a>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/blob/main/aula04/index.html"> Desafio 1</a>
                 </li>
                 <li>
                     <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d002%20-%20OK/index.html"> Desafio 2</a>
