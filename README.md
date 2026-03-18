@@ -6,13 +6,19 @@
                     [Abrir projeto aula04](https://harrymanofi.github.io/Estudos-JavaScript/aula04/)
             <ul>
                 <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula04/"> Desafio 1</a>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula04/"> Aula 4</a>
                 </li>
                 <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula05/"> Desafio 2</a>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula05/"> Aula 5</a>
                 </li>
                 <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/ex2"> Desafio 3</a>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/ex2"> Aula 6(EX2)</a>
+                </li>
+                <li>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/ex3"> Aula 6(EX3)</a>
+                </li>
+                <li>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula06/ex4"> Aula 6(EX4)</a>
                 </li>
                 <li>
                     <strong>Abrir</strong> <a href="https://harrymanofi.github.io/Estudos-JavaScript/aula09/"> Desafio 4</a>
